@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+  margin: 30px;
+}
+#card {
+  text-align: center;
+}
+.point {
+  text-align: center;
+}
+img {
+  width: 180px;
+  height: 300px;
+  display: inline-flex;
+  margin-left: 10px;
+}
+button {
+  width: 150px;
+  height: 30px;
+  margin-bottom: 20px;
+  background-color: aqua;
+  border: 1px solid greenyellow;
+}
